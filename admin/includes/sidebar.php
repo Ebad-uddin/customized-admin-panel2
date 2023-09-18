@@ -40,8 +40,9 @@
     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
         <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">User Management</h6>
-            <a class="collapse-item" href="buttons.php">Add User</a>
-            <a class="collapse-item" href="cards.php">View User</a>
+            <a class="collapse-item" href="adduser.php">Add User</a>
+            <a class="collapse-item" href="viewuser.php">View User</a>
+            <a class="collapse-item" href="userProfile.php">User Profile</a>
         </div>
     </div>
 </li>
@@ -72,8 +73,8 @@
     </a>
     <div id="collapsePro" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
         <div class="bg-white py-2 collapse-inner rounded">
-            <a class="collapse-item" href="login.php">Add Category</a>
-            <a class="collapse-item" href="register.php">View Category</a>
+            <a class="collapse-item" href="addcat.php">Add Category</a>
+            <a class="collapse-item" href="viewcat.php">View Category</a>
             <div class="collapse-divider"></div>
             <a class="collapse-item" href="404.php">Add Product</a>
             <a class="collapse-item" href="blank.php">view Product</a>

@@ -19,7 +19,7 @@
 
     <!-- Custom styles for this template-->
     <link href="css/sb-admin-2.min.css" rel="stylesheet">
-
+    <link rel="stylesheet" href="css/customstyle.css">
 </head>
 
 <body class="bg-gradient-primary">
@@ -35,7 +35,7 @@
                     <div class="card-body p-0">
                         <!-- Nested Row within Card Body -->
                         <div class="row">
-                            <div class="col-lg-6 d-none d-lg-block ">
+                            <div class="col-lg-6 d-none d-lg-block  form-login-bg">
                             </div>
                             <div class="col-lg-6">
                                 <div class="p-5">
